@@ -1,0 +1,6 @@
+{
+    "require": {
+        "endroid/qr-code": "^5.0",
+        "league/oauth2-facebook": "^2.2"
+    }
+}
